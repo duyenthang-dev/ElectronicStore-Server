@@ -1,0 +1,305 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Máy tính"
+    },
+    {
+      "id": 3,
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 11 64GB Chính Hãng VN/A",
+      "type": "Iphone",
+      "quantity": 99,
+      "market_price": 13499000,
+      "discount_price": 17999000,
+      "sizeList": [
+        64,
+        128,
+        256
+      ],
+      "colorList": [
+        "White",
+        "Yellow",
+        "Green",
+        "Pink"
+      ],
+      "short_description": "iPhone 11 với 6 phiên bản màu sắc, camera có khả năng chụp ảnh vượt trội, thời lượng pin cực dài và bộ vi xử lý mạnh nhất từ trước đến nay sẽ mang đến trải nghiệm tuyệt vời dành cho bạn",
+      "categoryId": 1,
+      "features": [
+        "finger",
+        "faceId",
+        "warerProof"
+      ],
+      "screen": "mediumScreen",
+      "rating_average": 5,
+      "review_count": 60,
+      "sell_count": 200,
+      "imageList": [
+        "https://i.ibb.co/wsrrV4t/iphone-12-mint.webp",
+        "https://i.ibb.co/T4MbqCD/iphone-12-black.webp",
+        "https://i.ibb.co/KmJ889n/iphone-12-red.webp",
+        "https://i.ibb.co/JR4pW6S/iphone-12-navy.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S22 8/256GB Chính Hãng",
+      "type": "Samsung",
+      "quantity": 99,
+      "market_price": 21500000,
+      "discount_price": 18000000,
+      "sizeList": [
+        128,
+        256
+      ],
+      "colorList": [
+        "White",
+        "Yellow",
+        "Green",
+        "Pink"
+      ],
+      "short_description": "Samsung Galaxy S22 sở hữu thiết kế tinh tế cùng hiệu năng mạnh mẽ với sự xuất hiện của con chip Qualcom Snapdragon 8 Gen 1 8 nhân đem đến nhiều cải tiến về sức mạnh xử lý cũng như chất lượng chụp hình từ camera.",
+      "categoryId": 1,
+      "features": [
+        "finger",
+        "faceId",
+        "warerProof",
+        "quickCharge"
+      ],
+      "screen": "largeScreen",
+      "rating_average": 4.4,
+      "review_count": 100,
+      "sell_count": 235,
+      "imageList": [
+        "https://i.ibb.co/sQxVWn5/samsung-s22-pink.webp",
+        "https://i.ibb.co/WyGq2hv/samsung-s22-black.webp",
+        "https://i.ibb.co/tP977QT/samsung-s22-green.webp",
+        "https://i.ibb.co/GRGXDvS/samsung-s22-white.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy A32 6/128GB Chính Hãng",
+      "type": "Samsung",
+      "quantity": 99,
+      "sizeList": [
+        64,
+        128,
+        256
+      ],
+      "colorList": [
+        "White",
+        "Yellow",
+        "Pink"
+      ],
+      "market_price": 5900000,
+      "discount_price": 5900000,
+      "categoryId": "1",
+      "features": [
+        "finger",
+        "quickCharge"
+      ],
+      "screen": "largeScreen",
+      "short_description": "Samsung Galaxy A32 nằm trong phân khúc điện thoại tầm trung nhưng được trang bị nhiều tính năng nổi trội với màn hình tần số quét 90Hz, 4 camera 64MP chất lượng cao & viên pin khủng 5000 mAh.",
+      "rating_average": 4.6,
+      "review_count": 25,
+      "sale_count": 120,
+      "imageList": [
+        "https://i.ibb.co/PYFnc0g/samsung-a32-purple.webp",
+        "https://i.ibb.co/rQxjxKB/samsung-a32-black.webp",
+        "https://i.ibb.co/2kYSTF4/samsung-a32-blue.webp",
+        "https://i.ibb.co/FnmndL0/samsung-a32-white.webp"
+      ]
+    },
+    {
+      "name": "Laptop Lenovo Legion 5 15ACH6 82JU00DFVN",
+      "type": "Lenovo",
+      "quantity": 99,
+      "market_price": 35999000,
+      "discount_price": 32999000,
+      "sizeList": [
+        512
+      ],
+      "colorList": [
+        "Black"
+      ],
+      "short_description": "Nếu bạn đã yêu thích Legion 5 phiên bản 2020 thì đây là một cỗ máy được nâng cấp về cấu hình nhưng không có quá nhiều khác biệt về ngoại hình. Và đó có lẽ là một điều tốt vì phiên bản 2020 đã được đón nhận rất nồng nhiệt.",
+      "categoryId": 2,
+      "features": [
+        "finger",
+        "IPS screen",
+        "Windows",
+        "AMD Ryzen 7"
+      ],
+      "screen": "largeScreen",
+      "rating_average": 5,
+      "review_count": 20,
+      "sell_count": 50,
+      "imageList": [
+        "https://i.ibb.co/pLH2qFz/lenovo-legion-5.webp",
+        "https://i.ibb.co/M7p8kDR/lenovo-legion-5-1.webp",
+        "https://i.ibb.co/Pms6RdN/lenovo-legion-5-2.webp"
+      ],
+      "createdAt": 1646931661423,
+      "id": 4
+    },
+    {
+      "name": "Dell Inspiron N3511 i5 1135G7/4GB/512GB/15.6\"FHD",
+      "type": "Dell",
+      "quantity": 99,
+      "market_price": 19999000,
+      "discount_price": 19499000,
+      "sizeList": [
+        256,
+        512
+      ],
+      "colorList": [
+        "Black",
+        "Grey"
+      ],
+      "short_description": "Dell Inspiron N3511 thuộc dòng Inspiron 15 3000 mới 2021 từ Dell với thiết kế nhỏ gọn hơn nhưng mang đến nhiều trải nghiệm hơn. Màn hình lớn tràn viền sắc nét, bộ vi xử lý Intel Core i5 thế hệ thứ 11 mạnh mẽ cùng rất nhiều nâng cấp sẽ giúp bạn tự tin hoàn thành công việc.",
+      "categoryId": 2,
+      "features": [
+        "finger",
+        "IPS screen",
+        "Windows",
+        "Intel 11th Gen"
+      ],
+      "screen": "largeScreen",
+      "rating_average": 5,
+      "review_count": 20,
+      "sell_count": 50,
+      "imageList": [
+        "https://i.ibb.co/zhvd5VQ/laptop-dell-inspiron-3000.webp",
+        "https://i.ibb.co/hZjZHhP/laptop-dell-inspiron-3000-1.jpg",
+        "https://i.ibb.co/zf5FKM9/laptop-dell-inspiron-15-2.webp",
+        "https://i.ibb.co/hYpb01q/laptop-dell-inspiron-3000-3.jpg"
+      ],
+      "createdAt": 1646931985109,
+      "id": 5
+    },
+    {
+      "name": "MacBook Pro 13\" 2020 Touch Bar M1 256GB",
+      "type": "Macbook",
+      "quantity": 99,
+      "market_price": 34999000,
+      "discount_price": 31499000,
+      "sizeList": [
+        256,
+        512
+      ],
+      "colorList": [
+        "Silver",
+        "Grey"
+      ],
+      "short_description": "MacBook Pro M1 13 inch 2020 Touch Bar mới với bộ vi xử lý Apple M1 cho bạn hiệu suất và thời lượng pin tuyệt vời nhất từ trước đến nay, mang đến hiệu năng chuyên nghiệp để hoàn thành những công việc chuyên nghiệp",
+      "categoryId": 2,
+      "features": [
+        "finger",
+        "IPS screen"
+      ],
+      "screen": "smallScreen",
+      "rating_average": 4.7,
+      "review_count": 80,
+      "sell_count": 220,
+      "imageList": [
+        "https://i.ibb.co/XVZS2TC/mbp-grey-1.webp",
+        "https://i.ibb.co/CJfR76P/mbp-grey-2.webp",
+        "https://i.ibb.co/DQPM3PP/mbp-silver-1.webp",
+        "https://i.ibb.co/MnDMJ9p/mbp-silver-2.webp"
+      ],
+      "createdAt": 1646932200663,
+      "id": 6
+    },
+    {
+      "name": "Tai nghe Bluetooth Apple AirPods 2 VN/A Fullbox",
+      "type": "headphone",
+      "quantity": 99,
+      "market_price": 3999000,
+      "discount_price": 3190000,
+      "sizeList": [],
+      "colorList": [
+        "White"
+      ],
+      "short_description": "Kế thừa toàn bộ tinh hoa của chiếc tai nghe AirPods đời đầu, tai nghe AirPods 2 được Apple bổ sung nhiều nâng cấp hiệu quả để gia tăng thời lượng pin cũng như tối ưu hóa âm thanh để trở thành một trong những mẫu tai nghe True Wireless có công nghệ tốt nhất.",
+      "categoryId": 3,
+      "features": [],
+      "screen": "",
+      "rating_average": 5,
+      "review_count": 50,
+      "sell_count": 145,
+      "imageList": [
+        "https://i.ibb.co/BCYgk4K/airpod-2-0.webp",
+        "https://i.ibb.co/8Y2ny5s/airpod-2-1.webp",
+        "https://i.ibb.co/YtSfxVW/airpod-2-2.webp",
+        "https://i.ibb.co/txHbMtc/airpod-2-3.webp"
+      ],
+      "createdAt": 1646932391645,
+      "id": 7
+    },
+    {
+      "name": "Pin dự phòng GenShai GP08 10.000mAh",
+      "type": "backup_charge",
+      "quantity": 99,
+      "market_price": 599000,
+      "discount_price": 299000,
+      "sizeList": [],
+      "colorList": [
+        "White"
+      ],
+      "short_description": "Ngày nay, sạc dự phòng đã trở thành thiết bị bất ly thân của nhiều người khi mà chúng ta ngày càng sử dụng các thiết bị di động nhiều hơn. Một bộ sạc với dung lượng lớn 10.000 mAh sẽ đảm bảo cung ứng nguồn điện năng dự trữ cho hầu hết các thiết bị thường đem theo như điện thoại, máy tính bảng.",
+      "categoryId": 3,
+      "features": [],
+      "screen": "",
+      "rating_average": 5,
+      "review_count": 120,
+      "sell_count": 230,
+      "imageList": [
+        "https://i.ibb.co/Qk8t7yZ/genshai-gp08-grey-1.jpg",
+        "https://i.ibb.co/L5fggsS/genshai-gp08-grey-2.webp",
+        "https://i.ibb.co/Y8H6Wkm/genshai-gp08-grey-3.webp",
+        "https://i.ibb.co/rFTBC3g/genshai-gp08-grey-4.webp"
+      ],
+      "createdAt": 1646932666988,
+      "id": 8
+    },
+    {
+      "name": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động",
+      "type": "bluetooth_speaker",
+      "quantity": 99,
+      "market_price": 2590000,
+      "discount_price": 3999000,
+      "sizeList": [],
+      "colorList": [
+        "Blue",
+        "Green",
+        "Black",
+        "Red"
+      ],
+      "short_description": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động. Đây là chiếc loa bluetooth thế hệ thứ tư thuộc dòng JBL Charge. Bạn sẽ có một bữa tiệc BBQ ngoài trời, hồ bơi hay bãi biển, ngập tràn âm thanh sống động, thỏa sức chơi đùa cùng với bạn bè.",
+      "categoryId": 3,
+      "features": [],
+      "screen": "",
+      "rating_average": 5,
+      "review_count": 120,
+      "sell_count": 230,
+      "imageList": [
+        "https://i.ibb.co/jLBVrGT/jbl-charge4-1.jpg",
+        "https://i.ibb.co/7R1fGyc/jbl-charge4-2.jpg",
+        "https://i.ibb.co/0yCwPCY/jbl-charge4-3.jpg",
+        "https://i.ibb.co/5s71VvV/jbl-charge4-4.jpg"
+      ],
+      "createdAt": 1647003385214,
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+#----------------------------- PRODUCTS -------------------------
+# getProduct
+GET http://localhost:5000/api/products
+
+###
+# filterProducts
+
+GET http://localhost:5000/api/products?type=Samsung&discount_price_gte=10000000&discount_price_gte=10000000
+
+###
+# pagination
+
+GET http://localhost:5000/api/products?_page=1&_limit=5
+
+###
+# search
+
+GET http://localhost:5000/api/products?sort_desciption_like=Chuyên+Nghiệp
+
+###
+# addProduct
+POST http://localhost:5000/api/products
+Content-Type: application/json
+
+{
+    "name": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động",
+    "type": "bluetooth_speaker",
+    "quantity": 99,
+    "market_price": 2590000,
+    "discount_price": 3999000,
+    "size": [],
+    "color": ["Blue", "Green", "Black", "Red"],
+    "sort_desciption": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động. Đây là chiếc loa bluetooth thế hệ thứ tư thuộc dòng JBL Charge. Bạn sẽ có một bữa tiệc BBQ ngoài trời, hồ bơi hay bãi biển, ngập tràn âm thanh sống động, thỏa sức chơi đùa cùng với bạn bè.",
+    "categoryId": 3,
+    "features": [],
+    "screen": "",
+    "rating_average": 5,
+    "review_count": 120,
+    "sell_count": 230,
+    "image": [
+        "https://i.ibb.co/jLBVrGT/jbl-charge4-1.jpg",
+        "https://i.ibb.co/7R1fGyc/jbl-charge4-2.jpg",
+        "https://i.ibb.co/0yCwPCY/jbl-charge4-3.jpg",
+        "https://i.ibb.co/5s71VvV/jbl-charge4-4.jpg"
+    ]
+}
+
+####
+
+# update product
+PATCH http://localhost:5000/api/products/4
+Content-Type: application/json
+
+{
+    "name": "Dell Inspiron N3511 i5 1135G7/4GB/512GB/15.6\"FHD/Win 11+Office HS21",
+    "type": "Dell",
+    "quantity": 99,
+    "market_price": 19999000,
+    "discount_price": 19499000,
+    "size": [256, 512],
+    "color": ["Black", "Grey"],
+    "sort_desciption": "Dell Inspiron N3511 thuộc dòng Inspiron 15 3000 mới 2021 từ Dell với thiết kế nhỏ gọn hơn nhưng mang đến nhiều trải nghiệm hơn. Màn hình lớn tràn viền sắc nét, bộ vi xử lý Intel Core i5 thế hệ thứ 11 mạnh mẽ cùng rất nhiều nâng cấp sẽ giúp bạn tự tin hoàn thành công việc.",
+    "categoryId": 2,
+    "features": ["finger", "IPS screen", "Windows", "Intel 11th Gen"],
+    "screen": "largeScreen",
+    "rating_average": 5,
+    "review_count": 20,
+    "sell_count": 50,
+    "image": []
+}
+
+###
+
+#delete product
+DELETE http://localhost:5000/api/products/4
+

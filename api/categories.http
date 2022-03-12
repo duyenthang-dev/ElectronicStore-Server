@@ -1,0 +1,4 @@
+#---------------------------- CATEGORIES -------------------------
+
+# getAllCategories
+GET http://localhost:5000/api/categories
