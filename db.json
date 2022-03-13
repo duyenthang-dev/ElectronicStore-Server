@@ -48,7 +48,8 @@
         "https://i.ibb.co/T4MbqCD/iphone-12-black.webp",
         "https://i.ibb.co/KmJ889n/iphone-12-red.webp",
         "https://i.ibb.co/JR4pW6S/iphone-12-navy.webp"
-      ]
+      ],
+      "tag": ["điện thoại", "iphone", "ios", "cao cấp"]
     },
     {
       "id": 2,
@@ -84,7 +85,8 @@
         "https://i.ibb.co/WyGq2hv/samsung-s22-black.webp",
         "https://i.ibb.co/tP977QT/samsung-s22-green.webp",
         "https://i.ibb.co/GRGXDvS/samsung-s22-white.webp"
-      ]
+      ],
+      "tag": ["điện thoại", "samsung", "android", "cao cấp"]
     },
     {
       "id": 3,
@@ -118,7 +120,8 @@
         "https://i.ibb.co/rQxjxKB/samsung-a32-black.webp",
         "https://i.ibb.co/2kYSTF4/samsung-a32-blue.webp",
         "https://i.ibb.co/FnmndL0/samsung-a32-white.webp"
-      ]
+      ],
+      "tag": ["điện thoại", "samsung", "android", "giá rẻ"]
     },
     {
       "name": "Laptop Lenovo Legion 5 15ACH6 82JU00DFVN",
@@ -150,7 +153,8 @@
         "https://i.ibb.co/Pms6RdN/lenovo-legion-5-2.webp"
       ],
       "createdAt": 1646931661423,
-      "id": 4
+      "id": 4,
+      "tag": ["laptop", "máy tính", "lenovo", "window", "laptop gaming"]
     },
     {
       "name": "Dell Inspiron N3511 i5 1135G7/4GB/512GB/15.6\"FHD",
@@ -185,7 +189,8 @@
         "https://i.ibb.co/hYpb01q/laptop-dell-inspiron-3000-3.jpg"
       ],
       "createdAt": 1646931985109,
-      "id": 5
+      "id": 5,
+      "tag": ["laptop", "máy tính", "dell", "window", "chip i5"]
     },
     {
       "name": "MacBook Pro 13\" 2020 Touch Bar M1 256GB",
@@ -218,7 +223,8 @@
         "https://i.ibb.co/MnDMJ9p/mbp-silver-2.webp"
       ],
       "createdAt": 1646932200663,
-      "id": 6
+      "id": 6,
+      "tag": ["laptop", "máy tính", "macbook", "macos", "laptop đồ hoạ", "sang trọng"]
     },
     {
       "name": "Tai nghe Bluetooth Apple AirPods 2 VN/A Fullbox",
@@ -244,7 +250,8 @@
         "https://i.ibb.co/txHbMtc/airpod-2-3.webp"
       ],
       "createdAt": 1646932391645,
-      "id": 7
+      "id": 7,
+      "tag": ["phụ kiện", "tai nghe"]
     },
     {
       "name": "Pin dự phòng GenShai GP08 10.000mAh",
@@ -270,7 +277,8 @@
         "https://i.ibb.co/rFTBC3g/genshai-gp08-grey-4.webp"
       ],
       "createdAt": 1646932666988,
-      "id": 8
+      "id": 8,
+      "tag": ["phụ kiện", "pin dự phòng", "giá rẻ", "genshai"]
     },
     {
       "name": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động",
