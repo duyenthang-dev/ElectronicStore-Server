@@ -39,7 +39,7 @@
         "faceId",
         "warerProof"
       ],
-      "screen": "mediumScreen",
+      "screen": "Màn hình trung bình",
       "rating_average": 5,
       "review_count": 60,
       "sell_count": 200,
@@ -108,7 +108,7 @@
         "finger",
         "quickCharge"
       ],
-      "screen": "largeScreen",
+      "screen": "Màn hình lớn",
       "short_description": "Samsung Galaxy A32 nằm trong phân khúc điện thoại tầm trung nhưng được trang bị nhiều tính năng nổi trội với màn hình tần số quét 90Hz, 4 camera 64MP chất lượng cao & viên pin khủng 5000 mAh.",
       "rating_average": 4.6,
       "review_count": 25,
@@ -140,7 +140,7 @@
         "Windows",
         "AMD Ryzen 7"
       ],
-      "screen": "largeScreen",
+      "screen": "Màn hình lớn",
       "rating_average": 5,
       "review_count": 20,
       "sell_count": 50,
@@ -174,7 +174,7 @@
         "Windows",
         "Intel 11th Gen"
       ],
-      "screen": "largeScreen",
+      "screen": "Màn hình lớn",
       "rating_average": 5,
       "review_count": 20,
       "sell_count": 50,
@@ -207,7 +207,7 @@
         "finger",
         "IPS screen"
       ],
-      "screen": "smallScreen",
+      "screen": "Màn hình nhỏ",
       "rating_average": 4.7,
       "review_count": 80,
       "sell_count": 220,
