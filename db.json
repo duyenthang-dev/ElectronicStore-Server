@@ -17,7 +17,7 @@
     {
       "id": 1,
       "name": "Iphone 11 64GB Chính Hãng VN/A",
-      "type": "Iphone",
+      "type": "iphone",
       "quantity": 99,
       "market_price": 13499000,
       "discount_price": 17999000,
@@ -54,7 +54,7 @@
     {
       "id": 2,
       "name": "Samsung Galaxy S22 8/256GB Chính Hãng",
-      "type": "Samsung",
+      "type": "samsung",
       "quantity": 99,
       "market_price": 21500000,
       "discount_price": 18000000,
@@ -91,7 +91,7 @@
     {
       "id": 3,
       "name": "Samsung Galaxy A32 6/128GB Chính Hãng",
-      "type": "Samsung",
+      "type": "samsung",
       "quantity": 99,
       "sizeList": [
         64,
@@ -125,7 +125,7 @@
     },
     {
       "name": "Laptop Lenovo Legion 5 15ACH6 82JU00DFVN",
-      "type": "Lenovo",
+      "type": "lenovo",
       "quantity": 99,
       "market_price": 35999000,
       "discount_price": 32999000,
@@ -158,7 +158,7 @@
     },
     {
       "name": "Dell Inspiron N3511 i5 1135G7/4GB/512GB/15.6\"FHD",
-      "type": "Dell",
+      "type": "dell",
       "quantity": 99,
       "market_price": 19999000,
       "discount_price": 19499000,
@@ -194,7 +194,7 @@
     },
     {
       "name": "MacBook Pro 13\" 2020 Touch Bar M1 256GB",
-      "type": "Macbook",
+      "type": "macbook",
       "quantity": 99,
       "market_price": 34999000,
       "discount_price": 31499000,
