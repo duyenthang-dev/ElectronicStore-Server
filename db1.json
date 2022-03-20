@@ -1,0 +1,342 @@
+{
+    "products": [
+        {
+            "productId": 1,
+            "name": "Iphone 11 64GB Chính Hãng VN/A",
+            "type": "Mobile",
+            "unitPrice": 13499000,
+            "oldPrice": 17999000,
+            "status": "BestSeller",
+            "imgUrl1": "https://i.ibb.co/wsrrV4t/iphone-12-mint.webp",
+            "imgUrl2": "https://i.ibb.co/T4MbqCD/iphone-12-black.webp",
+            "imgUrl3": "https://i.ibb.co/KmJ889n/iphone-12-red.webp",
+            "rating": 5,
+            "description": "iPhone 11 với 6 phiên bản màu sắc, camera có khả năng chụp ảnh vượt trội, thời lượng pin cực dài và bộ vi xử lý mạnh nhất từ trước đến nay sẽ mang đến trải nghiệm tuyệt vời dành cho bạn",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 2,
+            "name": "Samsung Galaxy S22 8/256GB Chính Hãng",
+            "type": "Mobile",
+            "unitPrice": 18000000,
+            "oldPrice": 21500000,
+            "status": "Khuyenmai",
+            "imgUrl1": "https://i.ibb.co/sQxVWn5/samsung-s22-pink.webp",
+            "imgUrl2": "https://i.ibb.co/WyGq2hv/samsung-s22-black.webp",
+            "imgUrl3": "https://i.ibb.co/tP977QT/samsung-s22-green.webp",
+            "rating": 5,
+            "description": "Samsung Galaxy S22 sở hữu thiết kế tinh tế cùng hiệu năng mạnh mẽ với sự xuất hiện của con chip Qualcom Snapdragon 8 Gen 1 8 nhân đem đến nhiều cải tiến về sức mạnh xử lý cũng như chất lượng chụp hình từ camera.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 3,
+            "name": "Laptop Lenovo Legion 5 15ACH6 82JU00DFVN",
+            "type": "Laptop",
+            "unitPrice": 32999000,
+            "oldPrice": 35999000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/pLH2qFz/lenovo-legion-5.webp",
+            "imgUrl2": "https://i.ibb.co/M7p8kDR/lenovo-legion-5-1.webp",
+            "imgUrl3": "https://i.ibb.co/Pms6RdN/lenovo-legion-5-2.webp",
+            "rating": 4,
+            "description": "Nếu bạn đã yêu thích Legion 5 phiên bản 2020 thì đây là một cỗ máy được nâng cấp về cấu hình nhưng không có quá nhiều khác biệt về ngoại hình. Và đó có lẽ là một điều tốt vì phiên bản 2020 đã được đón nhận rất nồng nhiệt.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "featurs": null,
+            "billDetails": null
+        },
+        {
+            "productId": 4,
+            "name": "MacBook Pro 13\" 2020 Touch Bar M1 256GB",
+            "type": "Laptop",
+            "unitPrice": 31499000,
+            "oldPrice": 34999000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/XVZS2TC/mbp-grey-1.webp",
+            "imgUrl2": "https://i.ibb.co/CJfR76P/mbp-grey-2.webp",
+            "imgUrl3": "https://i.ibb.co/DQPM3PP/mbp-silver-1.webp",
+            "rating": 4,
+            "description": "MacBook Pro M1 13 inch 2020 Touch Bar mới với bộ vi xử lý Apple M1 cho bạn hiệu suất và thời lượng pin tuyệt vời nhất từ trước đến nay, mang đến hiệu năng chuyên nghiệp để hoàn thành những công việc chuyên nghiệp",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "featurs": null,
+            "billDetails": null
+        },
+        {
+            "productId": 5,
+            "name": "Tai nghe Bluetooth Apple AirPods 2 VN/A Fullbox",
+            "type": "Accessory",
+            "unitPrice": 3190000,
+            "oldPrice": 3999000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/BCYgk4K/airpod-2-0.webp",
+            "imgUrl2": "https://i.ibb.co/8Y2ny5s/airpod-2-1.webp",
+            "imgUrl3": "https://i.ibb.co/YtSfxVW/airpod-2-2.webp",
+            "rating": 4,
+            "description": "Kế thừa toàn bộ tinh hoa của chiếc tai nghe AirPods đời đầu, tai nghe AirPods 2 được Apple bổ sung nhiều nâng cấp hiệu quả để gia tăng thời lượng pin cũng như tối ưu hóa âm thanh để trở thành một trong những mẫu tai nghe True Wireless có công nghệ tốt nhất.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "featurs": null,
+            "billDetails": null
+            
+        }
+        
+    ],
+    "colors": [
+        {
+            "productId": 1,
+            "productColor": "White",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productColor": "Yellow",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productColor": "Green",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productColor": "Pink",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productColor": "Pink",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productColor": "Green",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productColor": "Silver",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productColor": "White",
+            "product": null
+        }
+       
+    ],
+    "sizes": [
+        {
+            "productId": 1,
+            "productSize": "64",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productSize": "64",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productSize": "512",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productSize": null,
+            "product": null
+        }
+    ],
+    "tags": [
+        {
+            "productId": 1,
+            "productTag": "iphone",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productTag": "ios",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productTag": "samsung",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productTag": "android",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productTag": "gaming",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productTag": "macos",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 5,
+            "productTag": "tai nghe",
+            "product": null
+        },
+        {
+            "productId": 5,
+            "productTag": "phụ kiện",
+            "product": null
+        },
+        {
+            "productId": 5,
+            "productTag": "airpod",
+            "product": null
+        }
+    ],
+    "features": [
+        {
+            "productId": 1,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productFeature": "FaceId",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productFeature": "Chống nước",
+            "product": null
+        },
+        {
+            "productId": 1,
+            "productFeature": "Sạc nhanh",
+            "product": null
+        },
+
+        {
+            "productId": 2,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productFeature": "FaceId",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productFeature": "Chống nước",
+            "product": null
+        },
+        {
+            "productId": 2,
+            "productFeature": "Sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productFeature": "Màn hình IPS",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productFeature": "AMD Ryzen 7",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productFeature": "Màn hình IPS",
+            "product": null
+        },
+        {
+            "productId": 5,
+            "productFeature": null,
+            "product": null
+        }
+       
+    ]
+}
