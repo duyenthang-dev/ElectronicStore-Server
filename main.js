@@ -2,6 +2,7 @@ const jsonServer = require("json-server")
 const queryString = require("query-string")
 const server = jsonServer.create()
 const router = jsonServer.router("db.json")
+const router1 = jsonServer.router("db1.json")
 const middlewares = jsonServer.defaults()
 
 
@@ -27,6 +28,7 @@ server.use((req, res, next) => {
 // Use default router
 
 server.use("/api", router)
+server.use("/api1", router1)
 
 const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
