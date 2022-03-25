@@ -51,7 +51,7 @@
             "sizes": null,
             "colors": null,
             "tags": null,
-            "featurs": null,
+            "features": null,
             "billDetails": null
         },
         {
@@ -69,7 +69,7 @@
             "sizes": null,
             "colors": null,
             "tags": null,
-            "featurs": null,
+            "features": null,
             "billDetails": null
         },
         {
@@ -87,7 +87,7 @@
             "sizes": null,
             "colors": null,
             "tags": null,
-            "featurs": null,
+            "features": null,
             "billDetails": null
             
         }
@@ -232,6 +232,11 @@
         {
             "productId": 3,
             "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 3,
+            "productTag": "lenovo",
             "product": null
         },
         {
