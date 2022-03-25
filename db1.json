@@ -236,6 +236,11 @@
         },
         {
             "productId": 4,
+            "productTag": "macbook",
+            "product": null
+        },
+        {
+            "productId": 4,
             "productTag": "macos",
             "product": null
         },
