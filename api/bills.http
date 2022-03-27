@@ -1,0 +1,32 @@
+#----------------------------- PRODUCTS -------------------------
+# getProduct
+GET http://localhost:5000/api1/bills
+#
+
+###
+# add bill
+POST http://localhost:5000/api/products
+Content-Type: application/json
+
+{
+    "name": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động",
+    "type": "bluetooth_speaker",
+    "quantity": 99,
+    "market_price": 2590000,
+    "discount_price": 3999000,
+    "size": [],
+    "color": ["Blue", "Green", "Black", "Red"],
+    "sort_desciption": "Loa JBL Charge 4 – Chống nước IPX7, âm thanh sống động. Đây là chiếc loa bluetooth thế hệ thứ tư thuộc dòng JBL Charge. Bạn sẽ có một bữa tiệc BBQ ngoài trời, hồ bơi hay bãi biển, ngập tràn âm thanh sống động, thỏa sức chơi đùa cùng với bạn bè.",
+    "categoryId": 3,
+    "features": [],
+    "screen": "",
+    "rating_average": 5,
+    "review_count": 120,
+    "sell_count": 230,
+    "image": [
+        "https://i.ibb.co/jLBVrGT/jbl-charge4-1.jpg",
+        "https://i.ibb.co/7R1fGyc/jbl-charge4-2.jpg",
+        "https://i.ibb.co/0yCwPCY/jbl-charge4-3.jpg",
+        "https://i.ibb.co/5s71VvV/jbl-charge4-4.jpg"
+    ]
+}

@@ -89,9 +89,169 @@
             "tags": null,
             "features": null,
             "billDetails": null
-            
+        },
+        {
+            "productId": 6,
+            "name": "IPhone 12 Pro Max 256GB Chính Hãng VN/A",
+            "type": "Mobile",
+            "unitPrice": 28990000,
+            "oldPrice": 32490000,
+            "status": "BestSeller",
+            "imgUrl1": "https://i.ibb.co/B3kbr77/iphone-12pm-black.webp",
+            "imgUrl2": "https://i.ibb.co/ng3h4wV/iphone-12pm-gold.webp",
+            "imgUrl3": "https://i.ibb.co/PGW8jvw/iphone-12pm-navy.webp",
+            "rating": 4.7,
+            "description": "IPhone 12 Pro 512GB hiện nay là một trong những chiếc điện thoại mạnh mẽ nhất với bộ vi xử lý Apple A14 Bionic, bộ 3 camera siêu sắc nét cũng kết nối 5G siêu tốc. Thiết kế cạnh viền vuông vức, màn hình 6.1 inch cũng tạo nên vẻ đẹp thời thượng, sang trọng cho chiếc điện thoại iPhone 12 này",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 7,
+            "name": "IPhone 13 128GB Chính Hãng VN/A mới 100%",
+            "type": "Mobile",
+            "unitPrice": 21250000,
+            "oldPrice": 24990000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/1mvkBFP/iphone-13-black.webp",
+            "imgUrl2": "https://i.ibb.co/4f6Jkhc/iphone-13-green.webp",
+            "imgUrl3": "https://i.ibb.co/6mdLhpt/iphone-13-pink.webp",
+            "rating": 4,
+            "description": "iPhone 13 - Flagship được mong chờ năm 2021. Điện thoại iPhone 13 ra mắt với nhiều điểm nâng cấp đáng giá so với thế hệ tiền nhiệm là iPhone 12 như thời lượng Pin dùng lâu hơn, camera tốt hơn và chip xử lý mạnh mẽ hơn.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 8,
+            "name": "Xiaomi Redmi Note 10s 8GB/128GB Chính Hãng DGW",
+            "type": "Mobile",
+            "unitPrice": 5400000,
+            "oldPrice": 6400000,
+            "status": "",
+            "imgUrl1": "https://i.ibb.co/5kCMLNz/xiaomi-redminode10s-grey.webp",
+            "imgUrl2": "https://i.ibb.co/3N5zpvd/xiaomi-redminote10s-white.webp",
+            "imgUrl3": "https://i.ibb.co/KmJ889n/iphone-12-red.webp",
+            "rating": 4,
+            "description": "Redmi Note 10S được xem là phiên bản cao cấp của Redmi Note 10 và cũng là một phiên bản tối giản của phiên bản Pro. Máy được trang bị màn hình sắc nét, hiệu năng mạnh mẽ cùng hệ thống camera chất lượng, đây chính là \"ngôi sao\" mới nhất trong thị trường smartphone phân khúc tầm trung 2021.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 9,
+            "name": "Xiaomi Mi 11 5G 8GB/256GB Chính Hãng DGW",
+            "type": "Mobile",
+            "unitPrice": 13240000,
+            "oldPrice": 152490000,
+            "status": "",
+            "imgUrl1": "https://i.ibb.co/09bnxKK/xiaomi-mi11-blue.webp",
+            "imgUrl2": "https://i.ibb.co/kGbjXnd/xiaomi-mi11-black.webp",
+            "imgUrl3": "https://i.ibb.co/3zybpd2/xiaomi-mi11-silver.webp",
+            "rating": 4,
+            "description": "Xiaomi Mi 11chính hãng là thiết bị flagship mới nhất của Xiaomi Việt Nam, đồng thời nó cũng là máy đầu tiên được sử dụng con chip thế hệ mới của thương hiệu chip Qualcomm, với sức mạnh tuyệt vời từ Snapdragon 888 cùng công nghệ màn hình QHD+ với tần số quét lên đến 120Hz, sạc nhanh 55W",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 10,
+            "name": "Samsung Galaxy S22 Ultra 12GB/512GB Chính hãng",
+            "type": "Mobile",
+            "unitPrice": 28999000,
+            "oldPrice": 30990000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/bgfYHH4/samsung-galaxys22ultra-red.webp",
+            "imgUrl2": "https://i.ibb.co/5WMx5pR/samsung-galaxys22ultra-green.webp",
+            "imgUrl3": "https://i.ibb.co/0Qg035m/samsung-galaxys22ultra-blue.webp",
+            "rating": 4.7,
+            "description": "Galaxy S22 Ultra có thiết kế vuông vức, hai cạnh bên mỏng hơn hẳn nhờ thiết kế màn hình cong, bao bọc bên ngoài là chất liệu nhôm Armor Aluminum - loại nhôm cứng nhất hiện nay. Đây được coi là sự kết hợp tinh tế, hoàn hảo giữa dòng Galaxy S và Galaxy Note của Samsung.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 11,
+            "name": "MacBook Air M1 2020 – Chính Hãng Apple Việt Nam",
+            "type": "Laptop",
+            "unitPrice": 23890000,
+            "oldPrice": 27990000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/19qr9Jv/macbook-air13m1-2.webp",
+            "imgUrl2": "https://i.ibb.co/4gvZ65C/macbook-air13m1-3.webp",
+            "imgUrl3": "https://i.ibb.co/ZzSbqXT/macbook-air13m1-grey.webp",
+            "rating": 4.7,
+            "description": "Apple vừa cho ra mắt phiên bản MacBook Air 13″ M1 256GB 2020 mới cực kì ấn tượng với con chip M1 mới được thiết kế dành riêng cho MacBook giúp tăng hiệu suất xử lý các tác vụ nhanh hơn tới 3.5 lần, đồng thời cải thiện tuổi thọ pin dài nhất từ ​​trước đến nay",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 12,
+            "name": "Laptop Dell Inspirion 15 3000 I3511 - Nhập khẩu chính hãng",
+            "type": "Laptop",
+            "unitPrice": 16990000,
+            "oldPrice": 19990000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/bz1hMvW/dell-inspiron-15-3000-1.webp",
+            "imgUrl2": "https://i.ibb.co/FHDCBfZ/dell-inspiron-15-3000-2.webp",
+            "imgUrl3": "https://i.ibb.co/bz1hMvW/dell-inspiron-15-3000-1.webp",
+            "rating": 4.7,
+            "description": "Với Inspiron 15 3000 I3511 5101BLK, thiết bị với bộ vi xử lý Intel thế hệ thứ 11 mới mang lại trải nghiệm giải trí đa phương tiện suốt cả ngày. Laptop Dell Inspiron 15 3000 I3511 5101BLK hứa hẹn là sản phẩm đáp ứng tốt các nhu cầu sử dụng của người dùng.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 13,
+            "name": "Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W",
+            "type": "Laptop",
+            "unitPrice": 27590000,
+            "oldPrice": 29990000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/PmZMbx0/asus-rog-1.webp",
+            "imgUrl2": "https://i.ibb.co/y8zND9S/asus-rog-2.webp",
+            "imgUrl3": "https://i.ibb.co/JnX3CM1/asus-rog-3.webp",
+            "rating": 4.7,
+            "description": "Nếu những laptop gaming thông thường sở hữu một thiết kế nặng nề thì laptop Asus gaming Rog Zephyrus G14 GA401QH-K2091W hoàn toàn khác biệt. Mẫu laptop Asus gaming này sở hữu một thiết kế nhỏ gọn nhưng vẫn đảm bảo được cấu hình mạnh mẽ.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 14,
+            "name": "Pin sạc dự phòng Golf candy G81 20000mA",
+            "type": "Accessory",
+            "unitPrice": 230000,
+            "oldPrice": 450000,
+            "status": "New",
+            "imgUrl1": "https://i.ibb.co/NjPsnKQ/sdp-golfcandy-1.webp",
+            "imgUrl2": "https://i.ibb.co/qphQhYJ/sdp-golfcandy-2.webp",
+            "imgUrl3": "https://i.ibb.co/Zz6Nx3h/sdp-golfcandy-3.webp",
+            "rating": 4.7,
+            "description": "Nếu những laptop gaming thông thường sở hữu một thiết kế nặng nề thì laptop Asus gaming Rog Zephyrus G14 GA401QH-K2091W hoàn toàn khác biệt. Mẫu laptop Asus gaming này sở hữu một thiết kế nhỏ gọn nhưng vẫn đảm bảo được cấu hình mạnh mẽ.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
         }
-        
     ],
     "colors": [
         {
@@ -148,8 +308,117 @@
             "productId": 4,
             "productColor": "White",
             "product": null
+        },
+        {
+            "productId": 6,
+            "productColor": "Gold",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productColor": "Navy",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productColor": "Green",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productColor": "Pink",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productColor": "Silver",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productColor": "Blue",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productColor": "Silver",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productColor": "Blue",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productColor": "Red",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productColor": "White",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productColor": "Grey",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productColor": "Silver",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productColor": "Gold",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productColor": "Grey",
+            "product": null
+        },
+        {
+            "productId": 14,
+            "productColor": "Black",
+            "product": null
+        },
+        {
+            "productId": 14,
+            "productColor": "White",
+            "product": null
         }
-       
     ],
     "sizes": [
         {
@@ -185,6 +454,82 @@
         {
             "productId": 3,
             "productSize": null,
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productSize": "512",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productSize": "128",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productSize": "256",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productSize": "8/256",
+            "product": null
+        },
+
+        {
+            "productId": 12,
+            "productSize": "16/256",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productSize": "8/512",
             "product": null
         }
     ],
@@ -273,7 +618,228 @@
             "productId": 5,
             "productTag": "airpod",
             "product": null
+        },
+        {
+            "productId": 6,
+            "productTag": "iphone",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productTag": "ios",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productTag": "cam đẹp, sang trọng",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productTag": "ios",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productTag": "iphone",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productTag": "apple",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productTag": "nhỏ gọn",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productTag": "android",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productTag": "xiaomi",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productTag": "màn hình amoled",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productTag": "android",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productTag": "xiaomi",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productTag": "sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productTag": "5G",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "5G",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "điện thoại",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "android",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "samsung",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productTag": "chip snap dragon 888, cam đẹp",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "apple",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "macos",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "macbook air",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productTag": "Đồ hoạ",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "dell",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "window win11",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "dell inspiron",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productTag": "màn hình lớn",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "asus",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "window win11",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "asus rog",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productTag": "laptop gaming",
+            "product": null
+        },
+        {
+            "productId": 14,
+            "productTag": "phụ kiện",
+            "product": null
+        },
+        {
+            "productId": 14,
+            "productTag": "pin, sạc dự phòng",
+            "product": null
         }
+
     ],
     "features": [
         {
@@ -291,7 +857,6 @@
             "productFeature": "Chống nước",
             "product": null
         },
-
         {
             "productId": 2,
             "productFeature": "Bảo mật vân tay",
@@ -302,6 +867,7 @@
             "productFeature": "FaceId",
             "product": null
         },
+
         {
             "productId": 2,
             "productFeature": "Chống nước",
@@ -319,7 +885,7 @@
         },
         {
             "productId": 3,
-            "productFeature": "Màn hình IPS",
+            "productFeature": "Màn hình IPS Full HD",
             "product": null
         },
         {
@@ -334,14 +900,133 @@
         },
         {
             "productId": 4,
-            "productFeature": "Màn hình IPS",
+            "productFeature": "Màn hình đẹp",
+            "product": null
+        },
+        {
+            "productId": 4,
+            "productFeature": "Pin khủng",
             "product": null
         },
         {
             "productId": 5,
             "productFeature": null,
             "product": null
+        },
+        {
+            "productId": 6,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productFeature": "FaceId",
+            "product": null
+        },
+        {
+            "productId": 6,
+            "productFeature": "Chống nước",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 7,
+            "productFeature": "FaceId",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productFeature": "Sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 8,
+            "productFeature": "Pin khủng",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productFeature": "Sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 9,
+            "productFeature": "5G",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productFeature": "Sạc nhanh",
+            "product": null
+        },
+        {
+            "productId": 10,
+            "productFeature": "5G",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productFeature": "Pin khủng",
+            "product": null
+        },
+        {
+            "productId": 11,
+            "productFeature": "Màn hình đẹp",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productFeature": "Màn hình IPS Full HD",
+            "product": null
+        },
+        {
+            "productId": 12,
+            "productFeature": "",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productFeature": "Màn hình IPS Full HD",
+            "product": null
+        },
+        {
+            "productId": 13,
+            "productFeature": "Hiệu năng cao",
+            "product": null
         }
-       
     ]
 }
