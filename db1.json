@@ -218,7 +218,7 @@
         },
         {
             "productId": 13,
-            "name": "Laptop Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W",
+            "name": "Asus Gaming Rog Zenphyrus G14 Ga401QH K2091W",
             "type": "Laptop",
             "unitPrice": 27590000,
             "oldPrice": 29990000,
@@ -544,7 +544,6 @@
             "productSize": "8/256",
             "product": null
         },
-
         {
             "productId": 12,
             "productSize": "16/256",
@@ -794,6 +793,11 @@
         },
         {
             "productId": 11,
+            "productTag": "macbook",
+            "product": null
+        },
+        {
+            "productId": 11,
             "productTag": "Đồ hoạ",
             "product": null
         },
@@ -897,7 +901,6 @@
             "productTag": "laptop văn phòng",
             "product": null
         }
-
     ],
     "features": [
         {
@@ -925,7 +928,6 @@
             "productFeature": "FaceId",
             "product": null
         },
-
         {
             "productId": 2,
             "productFeature": "Chống nước",
