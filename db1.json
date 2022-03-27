@@ -187,9 +187,9 @@
             "unitPrice": 23890000,
             "oldPrice": 27990000,
             "status": "New",
-            "imgUrl1": "https://i.ibb.co/19qr9Jv/macbook-air13m1-2.webp",
+            "imgUrl3": "https://i.ibb.co/19qr9Jv/macbook-air13m1-2.webp",
             "imgUrl2": "https://i.ibb.co/4gvZ65C/macbook-air13m1-3.webp",
-            "imgUrl3": "https://i.ibb.co/ZzSbqXT/macbook-air13m1-grey.webp",
+            "imgUrl1": "https://i.ibb.co/ZzSbqXT/macbook-air13m1-grey.webp",
             "rating": 4.7,
             "description": "Apple vừa cho ra mắt phiên bản MacBook Air 13″ M1 256GB 2020 mới cực kì ấn tượng với con chip M1 mới được thiết kế dành riêng cho MacBook giúp tăng hiệu suất xử lý các tác vụ nhanh hơn tới 3.5 lần, đồng thời cải thiện tuổi thọ pin dài nhất từ ​​trước đến nay",
             "sizes": null,
@@ -226,7 +226,7 @@
             "imgUrl1": "https://i.ibb.co/PmZMbx0/asus-rog-1.webp",
             "imgUrl2": "https://i.ibb.co/y8zND9S/asus-rog-2.webp",
             "imgUrl3": "https://i.ibb.co/JnX3CM1/asus-rog-3.webp",
-            "rating": 4.7,
+            "rating": 4.2,
             "description": "Nếu những laptop gaming thông thường sở hữu một thiết kế nặng nề thì laptop Asus gaming Rog Zephyrus G14 GA401QH-K2091W hoàn toàn khác biệt. Mẫu laptop Asus gaming này sở hữu một thiết kế nhỏ gọn nhưng vẫn đảm bảo được cấu hình mạnh mẽ.",
             "sizes": null,
             "colors": null,
@@ -246,6 +246,24 @@
             "imgUrl3": "https://i.ibb.co/Zz6Nx3h/sdp-golfcandy-3.webp",
             "rating": 4.7,
             "description": "Nếu những laptop gaming thông thường sở hữu một thiết kế nặng nề thì laptop Asus gaming Rog Zephyrus G14 GA401QH-K2091W hoàn toàn khác biệt. Mẫu laptop Asus gaming này sở hữu một thiết kế nhỏ gọn nhưng vẫn đảm bảo được cấu hình mạnh mẽ.",
+            "sizes": null,
+            "colors": null,
+            "tags": null,
+            "features": null,
+            "billDetails": null
+        },
+        {
+            "productId": 15,
+            "name": "Laptop Huawei Matebook D14 I5-10210U/8GB/512GB",
+            "type": "Laptop",
+            "unitPrice": 15990000,
+            "oldPrice": 17990000,
+            "status": "New",
+            "imgUrl3": "https://i.ibb.co/19qr9Jv/macbook-air13m1-2.webp",
+            "imgUrl2": "https://i.ibb.co/4gvZ65C/macbook-air13m1-3.webp",
+            "imgUrl1": "https://i.ibb.co/ZzSbqXT/macbook-air13m1-grey.webp",
+            "rating": 4.7,
+            "description": "Huawei Matebook D14 là một sản phẩm laptop mới của nhà sản xuất Huawei. Laptop hội tụ đủ cả chất và lượng, nhẹ nhàng khiến người dùng yêu thích. Là một trong những sản phẩm best choice trong phân khúc laptop giá rẻ.",
             "sizes": null,
             "colors": null,
             "tags": null,
@@ -418,6 +436,11 @@
             "productId": 14,
             "productColor": "White",
             "product": null
+        },
+        {
+            "productId": 14,
+            "productColor": "Grey",
+            "product": null
         }
     ],
     "sizes": [
@@ -529,6 +552,11 @@
         },
         {
             "productId": 13,
+            "productSize": "8/512",
+            "product": null
+        },
+        {
+            "productId": 15,
             "productSize": "8/512",
             "product": null
         }
@@ -838,6 +866,36 @@
             "productId": 14,
             "productTag": "pin, sạc dự phòng",
             "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "laptop",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "huawei",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "máy tính",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "window",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "huawei matebook",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productTag": "laptop văn phòng",
+            "product": null
         }
 
     ],
@@ -1026,6 +1084,16 @@
         {
             "productId": 13,
             "productFeature": "Hiệu năng cao",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productFeature": "Bảo mật vân tay",
+            "product": null
+        },
+        {
+            "productId": 15,
+            "productFeature": "Màn hình IPS Full HD",
             "product": null
         }
     ]
