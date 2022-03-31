@@ -5,7 +5,7 @@ GET http://localhost:5000/api1/bills
 
 ###
 # add bill
-POST http://localhost:5000/api/products
+POST http://localhost:5000/api/bills
 Content-Type: application/json
 
 {
